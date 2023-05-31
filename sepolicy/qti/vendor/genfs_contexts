@@ -161,3 +161,6 @@ genfscon sysfs /devices/virtual/misc/msm_amrwbplus/wakeup47 u:object_r:sysfs_wak
 genfscon sysfs /devices/virtual/misc/msm_amrnb/wakeup45 u:object_r:sysfs_wakeup:s0
 genfscon sysfs /devices/virtual/misc/msm_aac/wakeup43 u:object_r:sysfs_wakeup:s0
 genfscon sysfs /devices/platform/soc/soc:qcom,smp2p_sleepstate/wakeup/wakeup31 u:object_r:sysfs_wakeup:s0
+genfscon sysfs /devices/virtual/misc/msm_ape/wakeup48 u:object_r:sysfs_wakeup:s0
+genfscon sysfs /devices/virtual/misc/msm_g711alaw/wakeup50 u:object_r:sysfs_wakeup:s0
+genfscon sysfs /devices/virtual/misc/msm_wma/wakeup55 u:object_r:sysfs_wakeup:s0
